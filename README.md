@@ -6,10 +6,8 @@
 
 Я тестировщик. Основной домен - тестирование веб-приложений (front + back). 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://www.linkedin.com/in/maksat-mammedgulyyev-b013b2363?trk=contact-info) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
-- 🎬 Как сделать похожее портфолио для тестировщика смотри [здесь](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- 📚 Все мои [курсы](https://rusau.net/courses)
-- Бонус: [50+ тестовых заданий для тестировщиков](https://github.com/artichokeee/test-assignments)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://www.linkedin.com/in/maksat-mammedgulyyev-b013b2363?trk=contact-info) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maksat010527@gmail.com)
+
 
 ---
 ### 🤝 Социальные сети:
